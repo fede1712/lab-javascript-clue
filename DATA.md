@@ -41,24 +41,24 @@ color: purple
 
 ```
 missScarlet
-firstName: Kasandra
-lastName: Scarlet
-occupation: Actor
+firstName: 'Kasandra'
+lastName: 'Scarlet'
+occupation: 'Actor'
 age: 31
-description: She is an A-list movie star with a dark past
-image: https://www.radiotimes.com/uploads/images/Original/111967.jpg
-color: red
+description: 'She is an A-list movie star with a dark past'
+image: 'https://www.radiotimes.com/uploads/images/Original/111967.jpg'
+color: 'red'
 ```
 
 ```
 mrsPeacock
-firstName: Eleanor
-lastName: Peacock
-occupation: Socialité
+firstName: 'Eleanor'
+lastName: 'Peacock'
+occupation: 'Socialité'
 age: 36
-description: She is from a wealthy family and uses her status and money to earn popularity
-image: https://metrouk2.files.wordpress.com/2016/07/mrs-peacock.jpg
-color: blue
+description: 'She is from a wealthy family and uses her status and money to earn popularity'
+image: 'https://metrouk2.files.wordpress.com/2016/07/mrs-peacock.jpg'
+color: 'blue'
 ```
 
 ```
@@ -93,19 +93,19 @@ name: pistol --- weight: 20
 ### Rooms
 
 ```
-name: Dining Room
-name: Conservatory
-name: Kitchen
-name: Study
-name: Library
-name: Billiard Room
-name: Lounge
-name: Ballroom
-name: Hall
-name: Spa
-name: Living Room
-name: Observatory
-name: Theater
-name: Guest House
-name: Patio
+name: 'Dining Room',
+name: 'Conservatory',
+name: 'Kitchen',
+name: 'Study,
+name: 'Library',
+name: 'Billiard Room',
+name: 'Lounge',
+name: 'Ballroom',
+name: 'Hall',
+name: 'Spa',
+name: 'Living Room',
+name: 'Observatory',
+name: 'Theater',
+name: 'Guest House',
+name: 'Patio',
 ```
